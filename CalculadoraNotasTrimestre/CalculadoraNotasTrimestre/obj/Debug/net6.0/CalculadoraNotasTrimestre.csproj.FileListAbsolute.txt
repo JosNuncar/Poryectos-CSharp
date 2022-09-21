@@ -1,0 +1,15 @@
+C:\Users\Chema1\source\repos\CalculadoraNotasTrimestre\CalculadoraNotasTrimestre\bin\Debug\net6.0\CalculadoraNotasTrimestre.exe
+C:\Users\Chema1\source\repos\CalculadoraNotasTrimestre\CalculadoraNotasTrimestre\bin\Debug\net6.0\CalculadoraNotasTrimestre.deps.json
+C:\Users\Chema1\source\repos\CalculadoraNotasTrimestre\CalculadoraNotasTrimestre\bin\Debug\net6.0\CalculadoraNotasTrimestre.runtimeconfig.json
+C:\Users\Chema1\source\repos\CalculadoraNotasTrimestre\CalculadoraNotasTrimestre\bin\Debug\net6.0\CalculadoraNotasTrimestre.dll
+C:\Users\Chema1\source\repos\CalculadoraNotasTrimestre\CalculadoraNotasTrimestre\bin\Debug\net6.0\CalculadoraNotasTrimestre.pdb
+C:\Users\Chema1\source\repos\CalculadoraNotasTrimestre\CalculadoraNotasTrimestre\obj\Debug\net6.0\CalculadoraNotasTrimestre.csproj.AssemblyReference.cache
+C:\Users\Chema1\source\repos\CalculadoraNotasTrimestre\CalculadoraNotasTrimestre\obj\Debug\net6.0\CalculadoraNotasTrimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chema1\source\repos\CalculadoraNotasTrimestre\CalculadoraNotasTrimestre\obj\Debug\net6.0\CalculadoraNotasTrimestre.AssemblyInfoInputs.cache
+C:\Users\Chema1\source\repos\CalculadoraNotasTrimestre\CalculadoraNotasTrimestre\obj\Debug\net6.0\CalculadoraNotasTrimestre.AssemblyInfo.cs
+C:\Users\Chema1\source\repos\CalculadoraNotasTrimestre\CalculadoraNotasTrimestre\obj\Debug\net6.0\CalculadoraNotasTrimestre.csproj.CoreCompileInputs.cache
+C:\Users\Chema1\source\repos\CalculadoraNotasTrimestre\CalculadoraNotasTrimestre\obj\Debug\net6.0\CalculadoraNotasTrimestre.dll
+C:\Users\Chema1\source\repos\CalculadoraNotasTrimestre\CalculadoraNotasTrimestre\obj\Debug\net6.0\refint\CalculadoraNotasTrimestre.dll
+C:\Users\Chema1\source\repos\CalculadoraNotasTrimestre\CalculadoraNotasTrimestre\obj\Debug\net6.0\CalculadoraNotasTrimestre.pdb
+C:\Users\Chema1\source\repos\CalculadoraNotasTrimestre\CalculadoraNotasTrimestre\obj\Debug\net6.0\CalculadoraNotasTrimestre.genruntimeconfig.cache
+C:\Users\Chema1\source\repos\CalculadoraNotasTrimestre\CalculadoraNotasTrimestre\obj\Debug\net6.0\ref\CalculadoraNotasTrimestre.dll

@@ -1,0 +1,15 @@
+C:\Users\Chema1\source\repos\FigurasAsteriscos\FigurasAsteriscos\bin\Debug\net6.0\FigurasAsteriscos.exe
+C:\Users\Chema1\source\repos\FigurasAsteriscos\FigurasAsteriscos\bin\Debug\net6.0\FigurasAsteriscos.deps.json
+C:\Users\Chema1\source\repos\FigurasAsteriscos\FigurasAsteriscos\bin\Debug\net6.0\FigurasAsteriscos.runtimeconfig.json
+C:\Users\Chema1\source\repos\FigurasAsteriscos\FigurasAsteriscos\bin\Debug\net6.0\FigurasAsteriscos.dll
+C:\Users\Chema1\source\repos\FigurasAsteriscos\FigurasAsteriscos\bin\Debug\net6.0\FigurasAsteriscos.pdb
+C:\Users\Chema1\source\repos\FigurasAsteriscos\FigurasAsteriscos\obj\Debug\net6.0\FigurasAsteriscos.csproj.AssemblyReference.cache
+C:\Users\Chema1\source\repos\FigurasAsteriscos\FigurasAsteriscos\obj\Debug\net6.0\FigurasAsteriscos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chema1\source\repos\FigurasAsteriscos\FigurasAsteriscos\obj\Debug\net6.0\FigurasAsteriscos.AssemblyInfoInputs.cache
+C:\Users\Chema1\source\repos\FigurasAsteriscos\FigurasAsteriscos\obj\Debug\net6.0\FigurasAsteriscos.AssemblyInfo.cs
+C:\Users\Chema1\source\repos\FigurasAsteriscos\FigurasAsteriscos\obj\Debug\net6.0\FigurasAsteriscos.csproj.CoreCompileInputs.cache
+C:\Users\Chema1\source\repos\FigurasAsteriscos\FigurasAsteriscos\obj\Debug\net6.0\FigurasAsteriscos.dll
+C:\Users\Chema1\source\repos\FigurasAsteriscos\FigurasAsteriscos\obj\Debug\net6.0\refint\FigurasAsteriscos.dll
+C:\Users\Chema1\source\repos\FigurasAsteriscos\FigurasAsteriscos\obj\Debug\net6.0\FigurasAsteriscos.pdb
+C:\Users\Chema1\source\repos\FigurasAsteriscos\FigurasAsteriscos\obj\Debug\net6.0\FigurasAsteriscos.genruntimeconfig.cache
+C:\Users\Chema1\source\repos\FigurasAsteriscos\FigurasAsteriscos\obj\Debug\net6.0\ref\FigurasAsteriscos.dll

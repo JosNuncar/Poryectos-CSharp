@@ -1,0 +1,15 @@
+C:\Users\Chema1\source\repos\FabricaPizzas\FabricaPizzas\obj\Debug\net6.0\FabricaPizzas.csproj.AssemblyReference.cache
+C:\Users\Chema1\source\repos\FabricaPizzas\FabricaPizzas\obj\Debug\net6.0\FabricaPizzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chema1\source\repos\FabricaPizzas\FabricaPizzas\obj\Debug\net6.0\FabricaPizzas.AssemblyInfoInputs.cache
+C:\Users\Chema1\source\repos\FabricaPizzas\FabricaPizzas\obj\Debug\net6.0\FabricaPizzas.AssemblyInfo.cs
+C:\Users\Chema1\source\repos\FabricaPizzas\FabricaPizzas\obj\Debug\net6.0\FabricaPizzas.csproj.CoreCompileInputs.cache
+C:\Users\Chema1\source\repos\FabricaPizzas\FabricaPizzas\bin\Debug\net6.0\FabricaPizzas.exe
+C:\Users\Chema1\source\repos\FabricaPizzas\FabricaPizzas\bin\Debug\net6.0\FabricaPizzas.deps.json
+C:\Users\Chema1\source\repos\FabricaPizzas\FabricaPizzas\bin\Debug\net6.0\FabricaPizzas.runtimeconfig.json
+C:\Users\Chema1\source\repos\FabricaPizzas\FabricaPizzas\bin\Debug\net6.0\FabricaPizzas.dll
+C:\Users\Chema1\source\repos\FabricaPizzas\FabricaPizzas\bin\Debug\net6.0\FabricaPizzas.pdb
+C:\Users\Chema1\source\repos\FabricaPizzas\FabricaPizzas\obj\Debug\net6.0\FabricaPizzas.dll
+C:\Users\Chema1\source\repos\FabricaPizzas\FabricaPizzas\obj\Debug\net6.0\refint\FabricaPizzas.dll
+C:\Users\Chema1\source\repos\FabricaPizzas\FabricaPizzas\obj\Debug\net6.0\FabricaPizzas.pdb
+C:\Users\Chema1\source\repos\FabricaPizzas\FabricaPizzas\obj\Debug\net6.0\FabricaPizzas.genruntimeconfig.cache
+C:\Users\Chema1\source\repos\FabricaPizzas\FabricaPizzas\obj\Debug\net6.0\ref\FabricaPizzas.dll
